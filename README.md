@@ -26,7 +26,7 @@ This project organises the data into one dashboard that makes these patterns eas
 - Slicers (Branch filter)
 
 ## Dashboard Preview
-![Dashboard Preview](Supermarket_Sales_Dashboard_Powerbi.png)
+![Dashboard Preview](Supermarket_Sales_Dashboard.png)
 
 ## Key Performance Indicators
 - **Revenue Incl Tax:** 351.50K, the total paid by customers.
