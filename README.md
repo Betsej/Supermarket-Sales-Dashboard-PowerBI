@@ -56,7 +56,7 @@ All charts use revenue excluding tax.
 ## Project Files
 - `Supermarket_sales_power_bi.pbix` — Power BI file containing the dashboard.
 - `Supermarket_Sales_Dashboard_Powerbi.png` — Dashboard preview shown above.
-- Excel dataset file (Supermarket_Sales_Powerbi_Data).
+- Excel dataset file (Supermarket_Sales_Powerbi_Data.xlsx).
 
 ## Conclusion
 This project shows how Power BI can turn supermarket transaction data into a clear dashboard that supports business decisions. It also strengthened my skills in working with structured data, spotting sales patterns and presenting findings clearly.
