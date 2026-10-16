@@ -54,7 +54,7 @@ All charts use revenue excluding tax.
 - Business insight generation
 
 ## Project Files
-- `Supermarket_sales_power_bi.pbix` — Power BI file containing the dashboard.
+- `Supermarket_sales_power bi.pbix` — Power BI file containing the dashboard.
 - `Supermarket_Sales_Dashboard_Powerbi.png` — Dashboard preview shown above.
 - Excel dataset file (Supermarket_Sales_Powerbi_Data.xlsx).
 
